@@ -1,0 +1,3 @@
+server_port=6526
+server_message_size=128000
+audio_input_path=/dev/urandom
