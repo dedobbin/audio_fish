@@ -1,6 +1,6 @@
 # audio_fish
 Audio wave visualizer. 
-In a convo about writing GUIs using C/C++ being a bad time, i jokingly said 'just write the GUI using python and send real time data over a socket.  
+In a convo about writing GUIs using C/C++ being a bad time, i jokingly said 'just write the GUI using python and send real time data over a socket'.  
 
 That's basically how this experiment was born. I wanted to see if i could get any good results visualizing real time data.  
 Turns out you sorta can, although this approach it not optimal.
